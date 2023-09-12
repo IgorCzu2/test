@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+<title>Igor Czuryło</title>
+...
+</title>
+...
+</head>
+<body>
+Kocham Technikum W Zwierzyńcu
+</body>
+</html>
